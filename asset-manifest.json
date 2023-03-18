@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/origin-demo/static/css/main.fb3e7509.css",
+    "main.js": "/origin-demo/static/js/main.c4590bdc.js",
+    "static/css/710.4422abba.chunk.css": "/origin-demo/static/css/710.4422abba.chunk.css",
+    "static/js/710.c8e53d8f.chunk.js": "/origin-demo/static/js/710.c8e53d8f.chunk.js",
+    "static/js/665.7bf97317.chunk.js": "/origin-demo/static/js/665.7bf97317.chunk.js",
+    "static/media/cat2.jpg": "/origin-demo/static/media/cat2.2fdf1bf1b95bcfe7fee1.jpg",
+    "static/media/cat3.jpg": "/origin-demo/static/media/cat3.66cd5811acec9c3b0514.jpg",
+    "static/media/dog2.jpg": "/origin-demo/static/media/dog2.7fd01c32f4a4ff836f43.jpg",
+    "static/media/dog4.jpg": "/origin-demo/static/media/dog4.51740081f9c54839ab0d.jpg",
+    "static/media/cat5.jpg": "/origin-demo/static/media/cat5.d564aa7ce937e96d2b33.jpg",
+    "static/media/cat4.jpg": "/origin-demo/static/media/cat4.36ffaa6a9fd28c0f4e48.jpg",
+    "static/media/horse1.jpg": "/origin-demo/static/media/horse1.cae41ad8516d17d632b0.jpg",
+    "static/media/dog1.jpg": "/origin-demo/static/media/dog1.abcb6690dd1211981e2d.jpg",
+    "static/media/dog3.jpg": "/origin-demo/static/media/dog3.b4a7b95e51027766197b.jpg",
+    "static/media/horse2.jpg": "/origin-demo/static/media/horse2.b63f054c29d98604b3b0.jpg",
+    "static/media/cat1.jpg": "/origin-demo/static/media/cat1.8eb99d639e08ef13b815.jpg",
+    "static/media/horse3.jpg": "/origin-demo/static/media/horse3.8b42e0b2b2f3765b6bae.jpg",
+    "index.html": "/origin-demo/index.html",
+    "main.fb3e7509.css.map": "/origin-demo/static/css/main.fb3e7509.css.map",
+    "main.c4590bdc.js.map": "/origin-demo/static/js/main.c4590bdc.js.map",
+    "710.4422abba.chunk.css.map": "/origin-demo/static/css/710.4422abba.chunk.css.map",
+    "710.c8e53d8f.chunk.js.map": "/origin-demo/static/js/710.c8e53d8f.chunk.js.map",
+    "665.7bf97317.chunk.js.map": "/origin-demo/static/js/665.7bf97317.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3e7509.css",
+    "static/js/main.c4590bdc.js"
+  ]
+}

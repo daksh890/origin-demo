@@ -44,7 +44,7 @@ function App() {
           element={<SignIn setAdmin={setAdmin} setUser={setUser} user={user} />}
         />
         <Route
-          path="dashboard"
+          path="/dashboard"
           element={
             <Suspense fallback={<div>Loading...</div>}>
               <Dashboard adminLabels={adminlabels} data={data} user={user} />
@@ -52,7 +52,7 @@ function App() {
           }
         />
         <Route
-          path="admin"
+          path="/admin"
           element={
             <Admin
               setAdminLabels={setAdminLabels}

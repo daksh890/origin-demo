@@ -1,0 +1,45 @@
+.dashboard-container{
+    position: relative;
+    height:100%;
+    width:100%;
+    padding-top: 6rem;
+    background-color: rgb(249, 249, 237);
+    display:flex;
+    flex-direction: column;
+    margin:0 auto;
+    align-items: center;
+    justify-content: center;
+
+    .dashboard-filter{
+        width:40%;
+        height:9rem;
+        margin-bottom: 2rem;
+        padding:2rem;
+        box-sizing: border-box;
+        // background-color: aqua;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        .head{
+            font-size: 1.5rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .comp{
+            width:70%;
+        }
+    }
+
+    .dashboard-main{
+        width:75%;
+        // background-color: black;
+        display: grid;
+        gap: 4rem 30px ;
+        grid-template-columns: repeat(3, 25vw);
+        box-sizing: border-box;
+        margin-bottom:7rem;
+        align-items: center;
+    }
+
+}
